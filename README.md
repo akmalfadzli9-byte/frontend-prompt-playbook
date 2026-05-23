@@ -56,10 +56,90 @@ Requirements:
 - Fully responsive
 
 Features:
-[INSERT FEATURES]
+Review this frontend project like a senior UI/UX engineer.
+
+Analyze:
+- Visual hierarchy
+- Spacing
+- Typography
+- Accessibility
+- Responsiveness
+- Color usage
+- Component consistency
+- Performance
+- User experience
+- Mobile usability
+- Architecture quality
+
+Then:
+1. Explain weaknesses
+2. Suggest improvements
+3. Rewrite the project with professional standards
+4. Keep the design modern and production-ready
+5. Improve animations and interactions
+6. Optimize the JavaScript structure
+
+Create a premium modern dashboard UI.
+
+Style:
+- Apple-level polish
+- Glassmorphism
+- Smooth animations
+- Clean cards
+- Modern gradients
+- Elegant typography
+- Interactive charts
+- Responsive layout
+
+Dashboard includes:
+- Sidebar
+- Top navigation
+- Statistics cards
+- Live updating widgets
+- Search
+- Filters
+- Tables
+- Charts
+- Notifications
+- Dark/light mode
+
+Technical requirements:
+- Vanilla JavaScript only
+- Component architecture
+- Modular rendering system
+- Optimized performance
+- Responsive design
+
+Theme:
+[INSERT THEME]
+Here is the project:
+[PASTE CODE]
 
 API:
-[INSERT API]
+Give me a modern portfolio-quality frontend project using a free public API.
+
+Requirements:
+- Real-world useful concept
+- Intermediate to advanced difficulty
+- Good UI/UX opportunities
+- API integration
+- Search/filter/sort
+- Responsive design
+- Dashboard or analytics feel
+- Modern animations
+- Production-level structure
+
+For the project provide:
+1. Project idea
+2. Features
+3. APIs to use
+4. Folder structure
+5. UI inspiration direction
+6. Advanced features
+7. What skills it teaches
+8. Full implementation plan
+
+[insert API]
 
 Technical requirements:
 - Use async/await
@@ -74,5 +154,100 @@ Technical requirements:
 
 UI Style:
 [INSERT STYLE]
+
+Upgrade this project to look like a premium SaaS product.
+
+Improve:
+- UI consistency
+- Spacing
+- Typography
+- Colors
+- Card design
+- Hover states
+- Animations
+- Mobile responsiveness
+- Empty states
+- Loading states
+- Micro interactions
+- Visual hierarchy
+
+Keep it clean and modern.
+Avoid beginner-looking design.
+
+Here is the current code:
+[PASTE CODE]
+
+Upgrade this project to look like a premium SaaS product.
+
+Improve:
+- UI consistency
+- Spacing
+- Typography
+- Colors
+- Card design
+- Hover states
+- Animations
+- Mobile responsiveness
+- Empty states
+- Loading states
+- Micro interactions
+- Visual hierarchy
+
+Keep it clean and modern.
+Avoid beginner-looking design.
+
+Here is the current code:
+[PASTE CODE]
+Refactor this frontend application using professional frontend architecture.
+
+Requirements:
+- ES modules
+- Separation of concerns
+- Reusable utilities
+- State management pattern
+- Event delegation
+- Render optimization
+- Proper cleanup
+- Error boundaries
+- Config constants
+- Maintainable code structure
+
+Explain the architecture decisions.
+
+Here is the code:
+[PASTE CODE]
+
+Design this application mobile-first.
+
+Requirements:
+- Perfect phone experience
+- Tablet optimization
+- Desktop enhancement
+- Touch-friendly controls
+- Smooth scrolling
+- Sticky navigation
+- Responsive grids
+- Adaptive typography
+- Safe-area support
+- Performance optimized
+
+Suggest advanced features to make this project portfolio-level.
+
+Focus on:
+- Real-world usability
+- Impressive frontend engineering
+- Better UX
+- Better architecture
+- Performance
+- Accessibility
+- Interactive experiences
+- Advanced API handling
+- Offline support
+- State persistence
+- Animations
+- Data visualization
+
+Then implement the best features.
+Avoid desktop-only layouts.
 
 Return the COMPLETE code in one file.
